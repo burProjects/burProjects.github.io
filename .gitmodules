@@ -1,3 +1,6 @@
 [submodule "kodi/fuentekodileia"]
 	path = kodi/fuentekodileia
 	url = https://github.com/fuentekodileia/fuentekodileia.github.io
+[submodule "kodi/palantir"]
+	path = kodi/palantir
+	url = https://github.com/palantirsource/palantir
