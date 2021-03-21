@@ -4,3 +4,6 @@
 [submodule "kodi/palantir"]
 	path = kodi/palantir
 	url = https://github.com/palantirsource/palantir
+[submodule "kodi/kelebek_script"]
+	path = kodi/kelebek_script
+	url = https://github.com/kelebekmariposas/kelebekmariposas.github.io
