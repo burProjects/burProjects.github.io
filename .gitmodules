@@ -10,3 +10,6 @@
 [submodule "kodi/luar_script"]
 	path = kodi/luar_script
 	url = https://github.com/LuarSource/Fuente
+[submodule "kodi/quartz_skin"]
+	path = kodi/quartz_skin
+	url = https://github.com/nonJon/skin.quartz
