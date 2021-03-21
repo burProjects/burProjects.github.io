@@ -7,3 +7,6 @@
 [submodule "kodi/kelebek_script"]
 	path = kodi/kelebek_script
 	url = https://github.com/kelebekmariposas/kelebekmariposas.github.io
+[submodule "kodi/luar_script"]
+	path = kodi/luar_script
+	url = https://github.com/LuarSource/Fuente
